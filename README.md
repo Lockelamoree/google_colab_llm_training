@@ -1,2 +1,2 @@
 # googel_colab_llm_training
-This repository is being published for my Master Thesis. Its contents where use to finetune LLM within Google Colab.
+This repository is being published for my Master Thesis. Its contents where used to finetune a LLM within Google Colab.
